@@ -21,4 +21,4 @@ However, I stumbled upon Vue during a random encounter, and found it incredibly 
 (My efficiency is a bit low) I might not even qualify as a proper newbie right now... But it's okay, at least I have confidence in the future, don't I?
 
 
-> >_-
+> Less talking more coding (>_-)(learned from Mount&Blade)
