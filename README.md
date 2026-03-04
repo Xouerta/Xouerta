@@ -9,7 +9,7 @@
 
 ## Thanks for watching this page !!!
 
-### I am a junior majoring in Network Engineering. 
+### I am a senior student majoring in Network Engineering. 
 I started dabbling in Python programming in high school (though I wasn't completely fluent at the time). 
 
 In my freshman year, I experimented with various things like C++ (I made a small game with it, but the project was messy so I won't share it), C# (only read books, never really wrote any code), and even tried Unity (although I eventually gave up). 
