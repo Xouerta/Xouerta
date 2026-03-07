@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on doing websites!
 - 🤔 I’m looking for help with how to build a full project with only one alone
 - 📫 How to reach me: https508@outlook.com
-- website:https://xouerta.github.io/Xouertahome/
+- 💼 My website:https://xouerta.github.io/Xouertahome/
 
 ## Thanks for watching this page !!!
 
