@@ -25,6 +25,3 @@ After that I began to learn about react ,It has a different way of programming t
 
 > Less talking more coding (>_-)(learned from Mount&Blade)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xouerta&layout=compact)  
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Xouerta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
